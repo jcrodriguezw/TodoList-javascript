@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contenedorFormulario {
+    background: greenyellow;
+    padding: 50px 100px;
+}
+
+.formulario {
+    text-align: center;
+}
+
+.tareaInput {
+    font-size: 20px;
+    padding: 10px;
+    width: 80%;
+}
+
+.btnagregar {
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.contenedorLista {
+    margin: 50px;
+    font-size: 25px;
+}
+
+li {
+    margin: 5px;
+    padding: 10px;
+    border-bottom: 2px solid grey
+}
+
+li a{
+    text-decoration: none;
+    color: grey;
+}
+
+li a:hover {
+    text-decoration: line-through;
+}
+
+.error  {
+    color: red;
+    border:4px solid red;
+    font-size: 20px;
+    padding: 10px;
+    width: 80%;
+}
+
+ 
